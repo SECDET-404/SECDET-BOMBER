@@ -2,8 +2,8 @@
 
 ## INSTALLATION
 
-• `git clone https://github.com/SECDET-404/SECDET-BOMBER`
+`git clone https://github.com/SECDET-404/SECDET-BOMBER`
 
-• `cd SECDET-BOMBER`
+`cd SECDET-BOMBER`
 
-• `python SECDET.py`
+`python SECDET.py`
