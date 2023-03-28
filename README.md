@@ -1,6 +1,8 @@
-# SECDET-BOMBER
 
 ## INSTALLATION
+
+
+`rm -rf SECDET-BOMBER`
 
 `git clone https://github.com/SECDET-404/SECDET-BOMBER`
 
